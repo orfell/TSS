@@ -1,0 +1,5 @@
+{
+  "name": "VozGen AI",
+  "description": "Generador de voz a texto avanzado con control de emociones, acentos y efectos.",
+  "requestFramePermissions": []
+}
